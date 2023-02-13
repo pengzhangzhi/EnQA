@@ -1,0 +1,21 @@
+2023-02-13T12:21:00:718904 | START	| Start building S-GCN features
+2023-02-13T12:21:01:776685 | INFO	| Checking and preparation took 0.10 seconds
+2023-02-13T12:21:03:150690 | INFO	| Runnning of Voronota took 1.37 seconds
+2023-02-13T12:21:03:340499 | INFO	| Computing of covalent bonds took 0.19 seconds
+2023-02-13T12:21:03:344964 | INFO	| Correction of matrices took 0.00 seconds
+2023-02-13T12:21:03:351240 | INFO	| Computing of sequence-separation matrix took 0.01 seconds
+2023-02-13T12:21:03:414938 | INFO	| Output atom-level files reformatting took 0.06 seconds
+2023-02-13T12:21:31:028742 | START	| Start building S-GCN features
+2023-02-13T12:21:32:104321 | INFO	| Checking and preparation took 0.10 seconds
+2023-02-13T12:21:33:381673 | INFO	| Runnning of Voronota took 1.28 seconds
+2023-02-13T12:21:33:672307 | INFO	| Computing of covalent bonds took 0.29 seconds
+2023-02-13T12:21:33:679043 | INFO	| Correction of matrices took 0.01 seconds
+2023-02-13T12:21:33:687663 | INFO	| Computing of sequence-separation matrix took 0.01 seconds
+2023-02-13T12:21:33:759414 | INFO	| Output atom-level files reformatting took 0.07 seconds
+2023-02-13T12:30:48:055981 | START	| Start building S-GCN features
+2023-02-13T12:30:49:120082 | INFO	| Checking and preparation took 0.10 seconds
+2023-02-13T12:30:50:630604 | INFO	| Runnning of Voronota took 1.51 seconds
+2023-02-13T12:30:50:817670 | INFO	| Computing of covalent bonds took 0.19 seconds
+2023-02-13T12:30:50:822136 | INFO	| Correction of matrices took 0.00 seconds
+2023-02-13T12:30:50:827762 | INFO	| Computing of sequence-separation matrix took 0.01 seconds
+2023-02-13T12:30:50:874802 | INFO	| Output atom-level files reformatting took 0.05 seconds
