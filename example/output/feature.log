@@ -1,21 +1,83 @@
-2023-02-13T12:21:00:718904 | START	| Start building S-GCN features
-2023-02-13T12:21:01:776685 | INFO	| Checking and preparation took 0.10 seconds
-2023-02-13T12:21:03:150690 | INFO	| Runnning of Voronota took 1.37 seconds
-2023-02-13T12:21:03:340499 | INFO	| Computing of covalent bonds took 0.19 seconds
-2023-02-13T12:21:03:344964 | INFO	| Correction of matrices took 0.00 seconds
-2023-02-13T12:21:03:351240 | INFO	| Computing of sequence-separation matrix took 0.01 seconds
-2023-02-13T12:21:03:414938 | INFO	| Output atom-level files reformatting took 0.06 seconds
-2023-02-13T12:21:31:028742 | START	| Start building S-GCN features
-2023-02-13T12:21:32:104321 | INFO	| Checking and preparation took 0.10 seconds
-2023-02-13T12:21:33:381673 | INFO	| Runnning of Voronota took 1.28 seconds
-2023-02-13T12:21:33:672307 | INFO	| Computing of covalent bonds took 0.29 seconds
-2023-02-13T12:21:33:679043 | INFO	| Correction of matrices took 0.01 seconds
-2023-02-13T12:21:33:687663 | INFO	| Computing of sequence-separation matrix took 0.01 seconds
-2023-02-13T12:21:33:759414 | INFO	| Output atom-level files reformatting took 0.07 seconds
-2023-02-13T12:30:48:055981 | START	| Start building S-GCN features
-2023-02-13T12:30:49:120082 | INFO	| Checking and preparation took 0.10 seconds
-2023-02-13T12:30:50:630604 | INFO	| Runnning of Voronota took 1.51 seconds
-2023-02-13T12:30:50:817670 | INFO	| Computing of covalent bonds took 0.19 seconds
-2023-02-13T12:30:50:822136 | INFO	| Correction of matrices took 0.00 seconds
-2023-02-13T12:30:50:827762 | INFO	| Computing of sequence-separation matrix took 0.01 seconds
-2023-02-13T12:30:50:874802 | INFO	| Output atom-level files reformatting took 0.05 seconds
+2023-02-14T03:15:37:257912 | START	| Start building S-GCN features
+2023-02-14T03:32:06:163005 | INFO	| Checking and preparation took 5.33 seconds
+2023-02-14T03:33:35:399785 | INFO	| Runnning of Voronota took 89.24 seconds
+2023-02-14T03:33:52:058934 | INFO	| Computing of covalent bonds took 16.66 seconds
+2023-02-14T03:33:52:092206 | WARN	| No appropriate covalent type for atoms A_4965_PHE_CB and A_4965_PHE_C (positions 38919 and 38926)
+2023-02-14T03:33:52:103691 | WARN	| No appropriate covalent type for atoms A_6169_LEU_CB and A_6169_LEU_O (positions 48236 and 48241)
+2023-02-14T03:33:52:111975 | WARN	| No appropriate covalent type for atoms A_5130_LYS_CB and A_5130_LYS_C (positions 40177 and 40182)
+2023-02-14T03:33:52:112111 | WARN	| No appropriate covalent type for atoms A_6133_ILE_N and A_6133_ILE_CG2 (positions 47977 and 47981)
+2023-02-14T03:33:52:114014 | WARN	| No appropriate covalent type for atoms A_6133_ILE_CA and A_6133_ILE_CG2 (positions 47978 and 47981)
+2023-02-14T03:33:52:114354 | WARN	| No appropriate covalent type for atoms A_4967_MET_CB and A_4967_MET_C (positions 38938 and 38942)
+2023-02-14T03:33:52:114394 | WARN	| No appropriate covalent type for atoms A_4967_MET_CB and A_4967_MET_O (positions 38938 and 38943)
+2023-02-14T03:33:52:120833 | WARN	| No appropriate covalent type for atoms A_68_HIS_CB and A_68_HIS_C (positions 531 and 535)
+2023-02-14T03:33:52:126341 | WARN	| No appropriate covalent type for atoms A_8216_TYR_CB and A_8216_TYR_C (positions 64218 and 64226)
+2023-02-14T03:33:52:159363 | WARN	| No appropriate covalent type for atoms A_422_PHE_CD2 and A_422_PHE_CE1 (positions 3326 and 3327)
+2023-02-14T03:33:52:159593 | WARN	| No appropriate covalent type for atoms A_422_PHE_CG and A_422_PHE_CZ (positions 3324 and 3329)
+2023-02-14T03:33:52:159699 | WARN	| No appropriate covalent type for atoms A_422_PHE_CD2 and A_422_PHE_CZ (positions 3326 and 3329)
+2023-02-14T03:33:52:159736 | WARN	| No contact in covalent bond between atoms A_422_PHE_CG and A_422_PHE_CE1 (positions 3324 and 3327)
+2023-02-14T03:33:52:159764 | WARN	| No contact in covalent bond between atoms A_422_PHE_CG and A_422_PHE_CD2 (positions 3324 and 3326)
+2023-02-14T03:33:52:160442 | WARN	| No appropriate covalent type for atoms A_422_PHE_CD1 and A_422_PHE_CE2 (positions 3325 and 3328)
+2023-02-14T03:33:52:160673 | WARN	| No appropriate covalent type for atoms A_422_PHE_CE1 and A_422_PHE_CE2 (positions 3327 and 3328)
+2023-02-14T03:33:52:160713 | WARN	| No appropriate covalent type for atoms A_422_PHE_CD1 and A_422_PHE_CD2 (positions 3325 and 3326)
+2023-02-14T03:33:52:160750 | WARN	| No appropriate covalent type for atoms A_422_PHE_CG and A_422_PHE_CE2 (positions 3324 and 3328)
+2023-02-14T03:33:52:160781 | WARN	| No appropriate covalent type for atoms A_422_PHE_CD1 and A_422_PHE_CZ (positions 3325 and 3329)
+2023-02-14T03:33:52:167954 | WARN	| No appropriate covalent type for atoms A_523_ILE_CB and A_523_ILE_C (positions 4037 and 4041)
+2023-02-14T03:33:52:168144 | WARN	| No appropriate covalent type for atoms A_7831_LEU_CB and A_7831_LEU_C (positions 61351 and 61355)
+2023-02-14T03:33:52:168211 | WARN	| No appropriate covalent type for atoms A_533_LEU_CB and A_533_LEU_O (positions 4107 and 4112)
+2023-02-14T03:33:52:168377 | WARN	| No appropriate covalent type for atoms A_533_LEU_CB and A_533_LEU_C (positions 4107 and 4111)
+2023-02-14T03:33:52:168530 | WARN	| No appropriate covalent type for atoms A_531_PHE_CB and A_531_PHE_C (positions 4092 and 4099)
+2023-02-14T03:33:52:168943 | WARN	| No appropriate covalent type for atoms A_7787_MET_CB and A_7787_MET_O (positions 61018 and 61023)
+2023-02-14T03:33:52:168995 | WARN	| No appropriate covalent type for atoms A_7787_MET_CA and A_7787_MET_O (positions 61017 and 61023)
+2023-02-14T03:33:52:227737 | WARN	| No appropriate covalent type for atoms A_3374_TYR_CG and A_3374_TYR_CE1 (positions 26335 and 26338)
+2023-02-14T03:33:52:227820 | WARN	| No appropriate covalent type for atoms A_3374_TYR_CG and A_3374_TYR_CZ (positions 26335 and 26340)
+2023-02-14T03:33:52:227863 | WARN	| No appropriate covalent type for atoms A_3374_TYR_CD1 and A_3374_TYR_CZ (positions 26336 and 26340)
+2023-02-14T03:33:52:227941 | WARN	| No appropriate covalent type for atoms A_3374_TYR_CD1 and A_3374_TYR_OH (positions 26336 and 26341)
+2023-02-14T03:33:52:228122 | WARN	| No contact in covalent bond between atoms A_3374_TYR_CG and A_3374_TYR_CD2 (positions 26335 and 26337)
+2023-02-14T03:33:52:228156 | WARN	| No contact in covalent bond between atoms A_3374_TYR_CG and A_3374_TYR_CE2 (positions 26335 and 26339)
+2023-02-14T03:33:52:228186 | WARN	| No appropriate covalent type for atoms A_3374_TYR_CD2 and A_3374_TYR_CE1 (positions 26337 and 26338)
+2023-02-14T03:33:52:228214 | WARN	| No appropriate covalent type for atoms A_3374_TYR_CE1 and A_3374_TYR_CE2 (positions 26338 and 26339)
+2023-02-14T03:33:52:228243 | WARN	| No contact in covalent bond between atoms A_3374_TYR_CD1 and A_3374_TYR_CD2 (positions 26336 and 26337)
+2023-02-14T03:33:52:228271 | WARN	| No appropriate covalent type for atoms A_3374_TYR_CD1 and A_3374_TYR_CE2 (positions 26336 and 26339)
+2023-02-14T03:33:52:228300 | WARN	| No contact in covalent bond between atoms A_3374_TYR_CD2 and A_3374_TYR_CZ (positions 26337 and 26340)
+2023-02-14T03:33:52:228334 | WARN	| No contact in covalent bond between atoms A_3374_TYR_CE2 and A_3374_TYR_CZ (positions 26339 and 26340)
+2023-02-14T03:33:52:275795 | WARN	| No appropriate covalent type for atoms A_2311_PHE_CB and A_2311_PHE_C (positions 18106 and 18113)
+2023-02-14T03:33:52:279342 | WARN	| No appropriate covalent type for atoms A_3353_LEU_CB and A_3353_LEU_C (positions 26187 and 26191)
+2023-02-14T03:33:52:698901 | INFO	| Correction of matrices took 0.64 seconds
+2023-02-14T03:33:53:388599 | INFO	| Computing of sequence-separation matrix took 0.69 seconds
+2023-02-14T03:33:56:384576 | INFO	| Output atom-level files reformatting took 3.00 seconds
+2023-02-14T04:42:39:496350 | START	| Start building S-GCN features
+2023-02-14T04:55:54:713106 | START	| Start building S-GCN features
+2023-02-14T04:55:55:795320 | INFO	| Checking and preparation took 0.10 seconds
+2023-02-14T04:55:58:188596 | INFO	| Runnning of Voronota took 2.39 seconds
+2023-02-14T04:55:58:380436 | INFO	| Computing of covalent bonds took 0.19 seconds
+2023-02-14T04:55:58:385085 | INFO	| Correction of matrices took 0.00 seconds
+2023-02-14T04:55:58:391173 | INFO	| Computing of sequence-separation matrix took 0.01 seconds
+2023-02-14T04:55:58:439486 | INFO	| Output atom-level files reformatting took 0.05 seconds
+2023-02-14T04:56:14:790645 | START	| Start building S-GCN features
+2023-02-14T04:56:15:855430 | INFO	| Checking and preparation took 0.10 seconds
+2023-02-14T04:56:18:164337 | INFO	| Runnning of Voronota took 2.31 seconds
+2023-02-14T04:56:18:352379 | INFO	| Computing of covalent bonds took 0.19 seconds
+2023-02-14T04:56:18:356939 | INFO	| Correction of matrices took 0.00 seconds
+2023-02-14T04:56:18:363125 | INFO	| Computing of sequence-separation matrix took 0.01 seconds
+2023-02-14T04:56:18:410886 | INFO	| Output atom-level files reformatting took 0.05 seconds
+2023-02-14T04:56:50:578480 | START	| Start building S-GCN features
+2023-02-14T04:56:54:879507 | INFO	| Checking and preparation took 0.24 seconds
+2023-02-14T04:56:59:237832 | INFO	| Runnning of Voronota took 4.36 seconds
+2023-02-14T04:56:59:891695 | INFO	| Computing of covalent bonds took 0.65 seconds
+2023-02-14T04:56:59:906361 | INFO	| Correction of matrices took 0.01 seconds
+2023-02-14T04:56:59:925076 | INFO	| Computing of sequence-separation matrix took 0.02 seconds
+2023-02-14T04:57:00:056537 | INFO	| Output atom-level files reformatting took 0.13 seconds
+2023-02-14T05:47:00:390024 | START	| Start building S-GCN features
+2023-02-14T05:47:04:514348 | INFO	| Checking and preparation took 0.24 seconds
+2023-02-14T05:47:08:978611 | INFO	| Runnning of Voronota took 4.46 seconds
+2023-02-14T05:47:09:629435 | INFO	| Computing of covalent bonds took 0.65 seconds
+2023-02-14T05:47:09:643882 | INFO	| Correction of matrices took 0.01 seconds
+2023-02-14T05:47:09:662505 | INFO	| Computing of sequence-separation matrix took 0.02 seconds
+2023-02-14T05:47:09:796560 | INFO	| Output atom-level files reformatting took 0.13 seconds
+2023-02-14T05:47:43:571050 | START	| Start building S-GCN features
+2023-02-14T05:47:47:633411 | INFO	| Checking and preparation took 0.24 seconds
+2023-02-14T05:47:52:410551 | INFO	| Runnning of Voronota took 4.78 seconds
+2023-02-14T05:47:53:447140 | INFO	| Computing of covalent bonds took 1.04 seconds
+2023-02-14T05:47:53:462891 | INFO	| Correction of matrices took 0.02 seconds
+2023-02-14T05:47:53:481766 | INFO	| Computing of sequence-separation matrix took 0.02 seconds
+2023-02-14T05:47:53:615741 | INFO	| Output atom-level files reformatting took 0.13 seconds
